@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauriciogasparotto
 - 👀 I’m interested in Data Journalism, Data Visualization, Python and Power BI
-- 🌱 I’m currently learning Python and Power BI
+- 🌱 I develop Python and Power BI projects
 - 💞️ I’m looking to collaborate on Data Journalism and Data Visualization
 
 <!---
