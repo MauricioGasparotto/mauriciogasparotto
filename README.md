@@ -9,7 +9,7 @@
 - Dados, dados, dados...
 
 
-<h3>Quais as minhas ferraments?</h3>
+<h3>Minhas ferraments</h3>
 
 <table>
   <tbody>
