@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @mauriciogasparotto
-- 👀 I’m interested in Data Journalism, Data Visualization, Python and Power BI
-- 🌱 I develop Python and Power BI projects
-- 💞️ I’m looking to collaborate on Data Journalism and Data Visualization
+<h1>Olá, sou o Maurício</h1>
 
-<!---
-mauriciogasparotto/mauriciogasparotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Jornalismo de dados
+
+- Análise de dados
+
+- Dataviz e Infografia baseados em dados
+
+- Dados, dados, dados...
+
+
+<h3>Quais as minhas ferraments?</h3>
+
+<div align="center" style="margin-bottom: 10px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="js" style="max-width: 100%;">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
