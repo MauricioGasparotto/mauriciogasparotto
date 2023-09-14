@@ -38,6 +38,14 @@
         <img width="12" /> Power BI
       </td>
       <td>
+        <img
+          src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-tableau-software-50.png"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Tableau
+      </td>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
           alt="jupyter"
           width="40"
