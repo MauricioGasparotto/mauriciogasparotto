@@ -13,7 +13,7 @@
 
 <div align="left" style="margin-bottom: 10px">
     <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-python-48.png">
-    <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-logo-mysql-96.png">
+    <img width='80' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-logo-mysql-96.png">
     <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-power-bi-2021-48.png">
     <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-jupyter-48.png">
     <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-visual-studio-code-2019-48.png">
