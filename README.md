@@ -23,29 +23,36 @@
         <img width="12" /> Python
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
           height="40"
-          alt="nodejs logo"
+          alt="mysql logo"
         />
-        <img width="12" /> Node.js
+        <img width="12" /> MySQL
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=express"
+          src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-power-bi-2021-96.png"
           height="40"
           alt="express logo"
         />
-        <img width="12" /> Express
+        <img width="12" /> Power BI
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+          alt="jupyter"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Jupyter
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-visual-studio-code-2019-96.png"
           alt="nestjs"
           width="40"
           height="40"
         />
-        <img width="12" /> NestJS
+        <img width="12" /> VS Code
       </td>
     </tr>
 
