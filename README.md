@@ -11,24 +11,14 @@
 
 <h3>Quais as minhas ferraments?</h3>
 
-<div align="left" style="margin-bottom: 10px">
-    <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-python-48.png">
-    <img width='80' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-logo-mysql-96.png">
-    <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-power-bi-2021-48.png">
-    <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-jupyter-48.png">
-    <img width='60' src="https://github.com/mauriciogasparotto/mauriciogasparotto/blob/main/images/icons/languages/icons8-visual-studio-code-2019-48.png">
-  
-</div>
-
-<h3>Current Languages and Tools</h3>
 <table>
   <tbody>
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />"
           height="40"
-          alt="javascript logo"
+          alt="python logo"
         />
         <img width="12" /> Javascript
       </td>
