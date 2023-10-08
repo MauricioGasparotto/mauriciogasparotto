@@ -1,13 +1,10 @@
 <h1>Olá, sou o Maurício</h1>
 
-- Jornalismo de dados
+Sou jornalista com 30 anos de experiência em Jornalismo de Dados, Visualização de Dados, Storytelling e Infografia com base em dados. Designer gráfico especializado em softwares Adobe (InDesign, Photoshop, Illustrator, Premiere, After Effects).
 
-- Análise de dados
+Desenvolvimento de projetos utilizando programação Python, SQL, Power BI e Excel para análise, visualização e criação de dashboards de dados.
 
-- Dataviz e Infografia baseados em dados
-
-- Dados, dados, dados...
-
+Também fui professor universitário por 23 anos, desenvolvendo projetos em cursos de Comunicação Social (Jornalismo, Relações Públicas, Publicidade e Propaganda, Rádio, TV e Internet e Multimídia).
 
 <h3>Minhas ferramentas</h3>
 
